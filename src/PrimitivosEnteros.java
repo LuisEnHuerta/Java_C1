@@ -1,4 +1,4 @@
-public class Primitive {
+public class PrimitivosEnteros {
     public static void main(String[] args){
 
         byte nameByte = 127 ;
